@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="placeholder_login">Nom d\'utilisateur</string>
+    <string name="placeholder_password">Mot de passe</string>
+    <string name="button_login">Se connecter</string>
+    <string name="button_signup_label">S\'ENREGISTRER</string>
+    <string name="alert_login_title">Connection</string>
+    <string name="alert_login_message">Se connecter</string>
+    <string name="alert_login_empty_message">Vous devez preciser des trucs lul</string>
+    <string name="alert_login_empty_title">ERROR</string>
+</resources>
